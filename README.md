@@ -71,6 +71,25 @@ This helps identify which products to **promote**, **optimize**, or **phase out*
 
 ---
 
+## ✅ Recommendations
+
+1. **Investigate Low Profit Margins**  
+   Despite increased sales, profit grew marginally. Review pricing strategy, discounts, or operational costs.
+
+2. **Focus on High-Margin Products**  
+   Promote *Binders*, *Chairs*, and *Phones* more aggressively due to strong performance.
+
+3. **Reassess Underperforming Sub-Categories**  
+   Fasteners and Copiers should be reviewed for pricing, demand, or inventory inefficiencies.
+
+4. **Texas Market Audit**  
+   Texas had high transactions but negative profit. Investigate shipping, discounting, or customer behavior in this region.
+
+5. **Promote Cost-Effective Ship Modes**  
+   Since most customers use Standard Class, explore ways to optimize or upsell to Second Class and First Class for better profitability.
+
+---
+
 ## ⚙️ Tools & Techniques Used
 - Microsoft Excel
 - PivotTables
