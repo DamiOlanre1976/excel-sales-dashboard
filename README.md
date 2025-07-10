@@ -1,4 +1,4 @@
-# excel-sales-dashboard
+# Excel-sales-dashboard
 Interactive Excel dashboard project analyzing sales, profit, and regional performance
 
 # 📊 Excel Sales Dashboard Project
